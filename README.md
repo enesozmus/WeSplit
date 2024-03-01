@@ -1,4 +1,6 @@
-This repo follows a famous Swift course "**100 Days of SwiftUI**" by Paul Hudson.
+This repo follows a famous Swift course [100 Days of SwiftU](https://www.hackingwithswift.com/100/swiftui) by Paul Hudson.
+
+In this project, a check-sharing app that can be used after eating at a restaurant is being developed. Users enter all their own costs and how many people share that cost, then enter how much tip they want to leave, and finally they can see the amount they need to pay per person and the total amount.
 
 ![100 Days of SwiftUI – Day 18 – Hacking with Swift - Google Chrome 1 03 2024 15_11_44](https://github.com/enesozmus/WeSplit/assets/94680591/e3eb40a5-7112-4f88-8fa9-6e8ae7ad5b60)
 
